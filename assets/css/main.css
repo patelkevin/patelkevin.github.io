@@ -1322,7 +1322,7 @@
 
 		body.is-scroll {
 			background-attachment: scroll, scroll;
-			background-size: auto, auto 100%;
+			background-size: auto, 200%, auto;
 		}
 
 		body.is-loading * {
