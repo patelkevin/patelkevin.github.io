@@ -3168,12 +3168,12 @@ div {
 }
 .bp3-mobile .bp3-cardheadermobile .bp3-group {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 275px;
+  top                 : 85px;
   height              : 374px;
   width               : 327px;
   position            : absolute;
   margin              : 0;
-  left                : 137px;
+  left                : 220px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -3204,12 +3204,12 @@ div {
 }
 .bp3-mobile .bp3-cardheadermobile .bp3-image {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 450px;
+  top                 : 500px;
   height              : 31px;
   width               : 45px;
   position            : absolute;
   margin              : 0;
-  left                : 285px;
+  left                : 110px;
   -ms-transform       : rotate(-35deg); /* IE 9 */
   -webkit-transform   : rotate(-35deg); /* Chrome, Safari, Opera */
   transform           : rotate(-35deg);
