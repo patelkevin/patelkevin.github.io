@@ -2877,7 +2877,7 @@ div {
 .bp3-mobile .bp3-navbarmobile {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
-  height              : 61px;
+  height              : 70px;
   width               : 100%;
   position            : absolute;
   margin              : 0;
@@ -2918,7 +2918,7 @@ div {
   position            : absolute;
   margin              : 0;
   display             : flex;
-  left                : 15px;
+  left                : 20px;
 }
 .bp3-mobile .bp3-navbarmobile .bp3-glyphlogocopy .bp3-kp {
   background-color    : rgba(255,255,255,0.0);
@@ -2953,7 +2953,7 @@ div {
 }
 .bp3-mobile .bp3-navbarmobile .bp3-combinedshape-layout-container {
   pointer-events      : none;
-  right               : 15px;
+  right               : 20px;
   flex-direction      : column;
   top                 : 0;
   height              : 100%;
@@ -3192,24 +3192,24 @@ div {
 }
 .bp3-mobile .bp3-cardheadermobile .bp3-group .bp3-screen {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 20px;
+  top                 : 17px;
   height              : 289px;
   width               : 242px;
   position            : absolute;
   margin              : 0;
-  left                : 39px;
+  left                : 26px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
 .bp3-mobile .bp3-cardheadermobile .bp3-image {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 394px;
+  top                 : 450px;
   height              : 31px;
   width               : 45px;
   position            : absolute;
   margin              : 0;
-  left                : 280px;
+  left                : 285px;
   -ms-transform       : rotate(-35deg); /* IE 9 */
   -webkit-transform   : rotate(-35deg); /* Chrome, Safari, Opera */
   transform           : rotate(-35deg);
@@ -3399,10 +3399,10 @@ div {
   background-color    : rgba(255,255,255,0.0);
   top                 : 344px;
   height              : auto;
-  width               : 304px;
+  width               : 350px;
   position            : absolute;
   margin              : 0;
-  left                : 64px;
+  left                : 40px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -3410,7 +3410,7 @@ div {
   font-weight         : 400;
   font-style          : normal;
   font-size           : 16.0px;
-  color               : rgba(46, 17, 53, 1.0);
+  color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
   line-height         : 19.0px;
 }
@@ -3503,7 +3503,7 @@ div {
   width               : 242px;
   position            : absolute;
   margin              : 0;
-  left                : 72px;
+  left                : 50px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -3518,23 +3518,23 @@ div {
 }
 .bp3-mobile .bp3-cardheadermobile .bp3-researchdesignte {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 110px;
+  top                 : 70px;
   height              : auto;
   width               : 257px;
   position            : absolute;
   margin              : 0;
-  left                : 70px;
+  left                : 50px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "Montserrat", Helvetica, Arial, serif;
   font-weight         : 600;
   font-style          : normal;
-  font-size           : 42.0px;
+  font-size           : 48.0px;
   color               : rgba(0, 0, 0, 1.0);
   text-align          : left;
   letter-spacing      : 2.03px;
-  line-height         : 52.0px;
+  line-height         : 60.0px;
 }
 .bp3-mobile .bp3-cardheadermobile .bp3-sectionsocial {
   background-color    : rgba(255,255,255,0.0);
@@ -5228,9 +5228,9 @@ div {
 }
 .bp3-mobile .bp3-sectioncontactmobile .bp3-iliketoconnectwi {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 116px;
+  top                 : 100px;
   height              : auto;
-  width               : 271px;
+  width               : 255px;
   position            : absolute;
   margin              : 0;
   left                : 19px;
@@ -5247,7 +5247,7 @@ div {
 }
 .bp3-mobile .bp3-sectioncontactmobile .bp3-contact {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 280px;
+  top                 : 305px;
   height              : 42px;
   width               : 168px;
   position            : absolute;
