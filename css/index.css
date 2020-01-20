@@ -2611,7 +2611,7 @@ div {
   font-weight         : 700;
   font-style          : normal;
   font-size           : 58.0px;
-  color               : rgba(46, 17, 53, 1.0);
+  color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
   letter-spacing      : -0.44px;
   line-height         : 71.0px;
@@ -7567,12 +7567,12 @@ div {
 }
 .bp2-index .bp2-header .bp2-illustration .bp2-screen {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 70px;
+  top                 : 72px;
   height              : 401px;
   width               : 186px;
   position            : absolute;
   margin              : 0;
-  left                : 548px;
+  left                : 535px;
   -ms-transform       : rotate(-32deg); /* IE 9 */
   -webkit-transform   : rotate(-32deg); /* Chrome, Safari, Opera */
   transform           : rotate(-32deg);
@@ -7812,7 +7812,7 @@ div {
   font-weight         : 700;
   font-style          : normal;
   font-size           : 46.0px;
-  color               : rgba(46, 17, 53, 1.0);
+  color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
   letter-spacing      : -0.35px;
   line-height         : 57.0px;
