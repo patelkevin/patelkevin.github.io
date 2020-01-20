@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=PT+Sans:700|Playfair+Display:700,900|Montserrat:600,400,700,500');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:700|Playfair+Display:900,700|Montserrat:700,400,600,500');
 
 
 .suggestionbox {
@@ -477,10 +477,10 @@ div {
 .suggestionbox .overview {
   background-color    : rgba(255,255,255,0.0);
   width               : 1217px;
-  margin-right        : 124px;
+  margin-right        : 57px;
   height              : 100%;
   pointer-events      : auto;
-  margin-left         : -124px;
+  margin-left         : -57px;
   position            : relative;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
@@ -496,7 +496,7 @@ div {
   position            : absolute;
   margin              : 0;
   display             : flex;
-  left                : 45px;
+  left                : 0;
 }
 .suggestionbox .overview .art {
   background-color    : rgba(255,255,255,0.0);
