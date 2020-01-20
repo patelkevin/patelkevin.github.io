@@ -7038,9 +7038,9 @@ div {
 }
 .bp3-mobile .bp3-sectioncontactmobile .bp3-iliketoconnectwi {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 116px;
+  top                 : 100px;
   height              : auto;
-  width               : 271px;
+  width               : 255px;
   position            : absolute;
   margin              : 0;
   left                : 19px;
@@ -7057,7 +7057,7 @@ div {
 }
 .bp3-mobile .bp3-sectioncontactmobile .bp3-contact {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 280px;
+  top                 : 305px;
   height              : 42px;
   width               : 168px;
   position            : absolute;
