@@ -2096,7 +2096,7 @@ div {
   width               : 460px;
   position            : absolute;
   margin              : 0;
-  left                : 415px;
+  left                : 465px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -2340,7 +2340,7 @@ div {
   width               : 128px;
   position            : absolute;
   margin              : 0;
-  left                : 0px;
+  left                : -45px;
   overflow            : hidden;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
@@ -2422,7 +2422,7 @@ div {
   width               : 506px;
   position            : absolute;
   margin              : 0;
-  left                : 0px;
+  left                : -45px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -2442,7 +2442,7 @@ div {
   width               : 269px;
   position            : absolute;
   margin              : 0;
-  left                : 0px;
+  left                : -45px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -2462,7 +2462,7 @@ div {
   width               : 366px;
   position            : absolute;
   margin              : 0;
-  left                : 0px;
+  left                : -45px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
