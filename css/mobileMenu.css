@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=PT+Sans:700|Playfair+Display:700,900|Montserrat:600,400,700,500');
 
 
-.mobile {
+.mobilemenu {
   width               : 100%;
   min-width           : 320px;
   height              : 100vh;
@@ -11,7 +11,7 @@
   margin              : 0px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color    : rgba(0, 0, 0, 0.6);
+  background-color    : rgba(0, 0, 0, 0.8);
 }
 a {
   text-decoration     : none;
@@ -567,9 +567,9 @@ div {
   transform: rotate(0);
     }
 }
-.mobile .stackedgroup2 {
+.mobilemenu .stackedgroup2 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 61px;
+  top                 : 90px;
   height              : 324px;
   width               : 120px;
   position            : fixed;
@@ -579,7 +579,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.mobile .stackedgroup2 .medium {
+.mobilemenu .stackedgroup2 .medium {
   background-color    : rgba(255,255,255,0.0);
   top                 : 295px;
   height              : auto;
@@ -598,7 +598,7 @@ div {
   text-align          : left;
   line-height         : 29.0px;
 }
-.mobile .stackedgroup2 .contact {
+.mobilemenu .stackedgroup2 .contact {
   background-color    : rgba(255,255,255,0.0);
   top                 : 118px;
   height              : auto;
@@ -617,7 +617,7 @@ div {
   text-align          : left;
   line-height         : 29.0px;
 }
-.mobile .stackedgroup2 .aboutme {
+.mobilemenu .stackedgroup2 .aboutme {
   background-color    : rgba(255,255,255,0.0);
   top                 : 59px;
   height              : auto;
@@ -636,7 +636,7 @@ div {
   text-align          : left;
   line-height         : 29.0px;
 }
-.mobile .stackedgroup2 .work {
+.mobilemenu .stackedgroup2 .work {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : auto;
@@ -655,7 +655,7 @@ div {
   text-align          : left;
   line-height         : 29.0px;
 }
-.mobile .stackedgroup2 .resume {
+.mobilemenu .stackedgroup2 .resume {
   background-color    : rgba(255,255,255,0.0);
   top                 : 177px;
   height              : auto;
@@ -674,7 +674,7 @@ div {
   text-align          : left;
   line-height         : 29.0px;
 }
-.mobile .stackedgroup2 .linkedin {
+.mobilemenu .stackedgroup2 .linkedin {
   background-color    : rgba(255,255,255,0.0);
   top                 : 236px;
   height              : auto;
@@ -693,7 +693,7 @@ div {
   text-align          : left;
   line-height         : 29.0px;
 }
-.mobile .menux {
+.mobilemenu .menux {
   background-color    : rgba(255,255,255,0.0);
   right               : 20px;
   top                 : 20px;

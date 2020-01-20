@@ -4,6 +4,7 @@
         <link href="./img/favicon.png" rel="shortcut icon"/>
         <meta charset="utf-8"/>
         <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0" name="viewport"/>
+        <link href="./css/mobileMenu.css" rel="stylesheet" type="text/css"/>
         <link href="./css/index.css" rel="stylesheet" type="text/css"/>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js">
         </script>
@@ -204,6 +205,7 @@
                         <img anima-src="./img/desktop-line-3@2x.png" class="bp1-line" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
                     </div>
                     <img anima-src="./img/desktop-about.png" class="bp1-about" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                    <img anima-src="./img/desktop-about-copy.png" class="bp1-aboutcopy" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
                     <div class="bp1-ilovetocreateint">
                         I love to create intuitive, beautiful, user friendly and simple interfaces. I believe good design is usable, simple, and attractive, and is ultimately the result of a designer with a comprehensive understanding of the user and business needs<br /><br />I have 5+ years of experience designing digital products. My expertise covers the entire digital product design process for both websites and mobile apps, including visual identity, user experience design and user interface design.
                     </div>
@@ -280,9 +282,9 @@
                             <div class="bp1-p2">
                             </div>
                             <div class="bp1-iliketoconnectwi">
-                                Want to chat with me over the phone or a coffee in Paris, feel free to drop a message! I love to talk about designs and get know about the experiences designing digital products.
+                                I like to connect with new people and learn about their experiences. Want to chat with me over the phone or a coffee in Paris, feel free to drop a message!
                             </div>
-                            <a href="mailto:kevinp24@icloud.com">
+                            <a href="#" onclick="document.getElementsByName('form1')[0].submit(); if (window.submitted) window.submitted();">
                                 <div class="bp1-contact">
                                     <div class="bp1-rectangle">
                                     </div>
@@ -739,9 +741,9 @@
                         <div class="bp2-p2">
                         </div>
                         <div class="bp2-iliketoconnectwi">
-                            Want to chat with me over the phone or a coffee in Paris, feel free to drop a message! I love to talk about designs and get know about the experiences designing digital products.
+                            I like to connect with new people and learn about their experiences. Want to chat with me over the phone or a coffee in Paris, feel free to drop a message!
                         </div>
-                        <a href="mailto:kevinp24@icloud.com">
+                        <a href="#" onclick="document.getElementsByName('form2')[0].submit(); if (window.submitted) window.submitted();">
                             <div class="bp2-contact">
                                 <div class="bp2-rectangle">
                                 </div>
@@ -758,17 +760,17 @@
             <div class="bp3-navbarmobile" id="nav-bar-mobile">
                 <div class="bp3-background">
                 </div>
-                <div class="bp3-glyphmenu-layout-container">
-                    <div class="bp3-glyphmenu">
-                        <img anima-src="./img/mobile-ion-android-menu---ionicons@2x.png" class="bp3-ionandroidmenuionicons" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-                    </div>
-                </div>
                 <div class="bp3-glyphlogocopy-layout-container">
                     <div class="bp3-glyphlogocopy">
-                        <div class="bp3-kevinpatel anima-valign-text-middle">
+                        <div class="bp3-kp">
                             k p.
                         </div>
                     </div>
+                </div>
+                <div class="bp3-combinedshape-layout-container">
+                    <a class="anima-full-width-a" href="javascript:animaShowOverlay('mobilemenu', 'anima-animate-appear'); anima_loadAsyncSrc(); ">
+                        <img anima-src="./img/mobile-combined-shape.svg" class="bp3-combinedshape" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                    </a>
                 </div>
             </div>
             <div class="bp3-footermobile">
@@ -801,18 +803,20 @@
             <div class="bp3-cardheadermobile-layout-container">
                 <div class="bp3-cardheadermobile">
                     <img anima-src="./img/desktop-rectangle.png" class="bp3-rectangle" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-                    <div class="bp3-buttonaboutme">
-                        <div class="bp3-background">
+                    <a href="#section-about-mobile">
+                        <div class="bp3-buttonaboutme">
+                            <div class="bp3-background">
+                            </div>
+                            <div class="bp3-bgnext">
+                            </div>
+                            <div class="bp3-nexttext anima-valign-text-middle">
+                                &gt;
+                            </div>
+                            <div class="bp3-aboutme anima-valign-text-middle">
+                                About Me
+                            </div>
                         </div>
-                        <div class="bp3-bgnext">
-                        </div>
-                        <div class="bp3-nexttext anima-valign-text-middle">
-                            &gt;
-                        </div>
-                        <div class="bp3-aboutme anima-valign-text-middle">
-                            About Me
-                        </div>
-                    </div>
+                    </a>
                     <div class="bp3-designinguserinter">
                         Designing user interfaces since 2014.<br />The most beautiful designs are made with emotions.
                     </div>
@@ -994,7 +998,7 @@
                 </div>
             </div>
             <div class="bp3-sectionaboutmobile-layout-container">
-                <div class="bp3-sectionaboutmobile" id="None">
+                <div class="bp3-sectionaboutmobile" id="section-about-mobile">
                     <div class="bp3-title">
                         <div class="bp3-aboutme anima-valign-text-middle">
                             ABOUT ME
@@ -1070,9 +1074,9 @@
                     <div class="bp3-about">
                     </div>
                     <div class="bp3-iliketoconnectwi">
-                        Want to chat with me over the phone or a coffee in Paris, feel free to drop a message! I love to talk about designs and get know about the experiences designing digital products.
+                        I like to connect with new people and learn about their experiences. Want to chat with me over the phone or a coffee in Paris, feel free to drop a message!
                     </div>
-                    <a href="mailto:kevinp24@icloud.com">
+                    <a href="#" onclick="document.getElementsByName('form3')[0].submit(); if (window.submitted) window.submitted();">
                         <div class="bp3-contact">
                             <div class="bp3-rectangle1">
                             </div>
@@ -1084,6 +1088,55 @@
                 </div>
             </div>
         </form>
+        <div class="anima-overlay" id="overlay-mobilemenu" style="min-height:2372px; position:fixed;">
+            <div class="mobilemenu">
+                <div class="stackedgroup2">
+                    <a href="https://medium.com/@kevin.v.patel">
+                        <div class="medium anima-animate-enter">
+                            Medium
+                        </div>
+                    </a>
+                    <a href="index.html">
+                        <div class="contact anima-animate-enter1">
+                            Contact
+                        </div>
+                    </a>
+                    <a href="index.html">
+                        <div class="aboutme anima-animate-enter2">
+                            About Me
+                        </div>
+                    </a>
+                    <a href="index.html">
+                        <div class="work anima-animate-enter3">
+                            Work
+                        </div>
+                    </a>
+                    <a href="https://drive.google.com/open?id=1-FVBEJ0VnnSIcDTyWW7Bz0SEZp28bwT1" target="_blank">
+                        <div class="resume anima-animate-enter4">
+                            Resume
+                        </div>
+                    </a>
+                    <a href="https://www.linkedin.com/in/patel-kevin/">
+                        <div class="linkedin anima-animate-enter5">
+                            LinkedIn
+                        </div>
+                    </a>
+                </div>
+                <a href="javascript:animaHideOverlay('mobilemenu', 'anima-animate-disappear');">
+                    <img anima-src="./img/mobile-menu-menu-x@2x.png" class="menux anima-animate-enter6" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                </a>
+            </div>
+        </div>
+        <script>
+            var overlay_id = "overlay-mobilemenu";
+            document.getElementById(overlay_id).addEventListener("click", function(event) {
+                var e = event || window.event;
+                var clickedDiv = e.toElement || e.target;
+                if (clickedDiv.parentElement.id == overlay_id) {
+                    animaHideOverlay('mobilemenu', 'anima-animate-disappear');
+                }
+            }, false);
+        </script>
         <!-- Scripts -->
         <script>
             anima_isHidden = function(e) {
@@ -1159,6 +1212,40 @@
             setTimeout(function() {
                 anima_loadAsyncSrc();
             }, 200);
+        </script>
+        <script>
+            animaShowOverlay = function(overlayName, animationName) {
+                overlayName = 'overlay-' + overlayName;
+                var cssClasses = document.getElementById(overlayName).className.split(' ');
+                var last = cssClasses.slice(-1)[0];
+                if (last.lastIndexOf('anima-animate') == -1) {
+                    document.getElementById(overlayName).className = document.getElementById(overlayName).className + " " + animationName;
+                }
+                if (anima_loadAsyncSrc != undefined) {
+                    anima_loadAsyncSrc();
+                }
+            };
+            animaHideOverlay = function(overlayName, animationName) {
+                overlayName = 'overlay-' + overlayName;
+                var cssClasses = document.getElementById(overlayName).className.split(' ');
+                var last = cssClasses.slice(-1)[0];
+                if (last.lastIndexOf('anima-animate') != -1) {
+                    cssClasses.splice(-1);
+                    cssClasses.push(animationName);
+                    document.getElementById(overlayName).className = cssClasses.join(' ');
+                    cssClasses.splice(-1);
+                    setTimeout(function() {
+                        document.getElementById(overlayName).className = cssClasses.join(' ');
+                    }, 1100);
+                }
+                var vids = document.getElementsByTagName('video');
+                if (vids) {
+                    for (var i = 0; i < vids.length; i++) {
+                        var video = vids.item(i);
+                        video.pause();
+                    }
+                }
+            };
         </script>
         <!-- End of Scripts -->
     </body>
