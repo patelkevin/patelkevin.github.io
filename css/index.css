@@ -2579,7 +2579,7 @@ div {
 }
 .bp1-desktop .bp1-header .bp1-subtitle {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 395px;
+  top                 : 360px;
   height              : 58px;
   width               : 895px;
   position            : absolute;
@@ -2598,7 +2598,7 @@ div {
 }
 .bp1-desktop .bp1-header .bp1-title {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 230px;
+  top                 : 215px;
   height              : 142px;
   width               : auto;
   position            : absolute;
@@ -2618,7 +2618,7 @@ div {
 }
 .bp1-desktop .bp1-header .bp1-buttonaboutme {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 490px;
+  top                 : 430px;
   height              : 49px;
   width               : 184px;
   position            : absolute;
