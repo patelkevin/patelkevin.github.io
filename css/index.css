@@ -3119,16 +3119,16 @@ div {
 }
 .bp3-mobile .bp3-cardheadermobile .bp3-human {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1px;
+  top                 : 270px;
   height              : 261px;
   width               : 200px;
   position            : absolute;
   margin              : 0;
-  left                : 0px;
+  left                : -45px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
-  opacity             : 0.65;
+  opacity             : 0.90;
 }
 .bp3-mobile .bp3-cardheadermobile .bp3-human .bp3-headfront {
   background-color    : rgba(255,255,255,0.0);
@@ -3209,7 +3209,7 @@ div {
   width               : 45px;
   position            : absolute;
   margin              : 0;
-  left                : 110px;
+  left                : 200px;
   -ms-transform       : rotate(-35deg); /* IE 9 */
   -webkit-transform   : rotate(-35deg); /* Chrome, Safari, Opera */
   transform           : rotate(-35deg);
@@ -3416,7 +3416,7 @@ div {
 }
 .bp3-mobile .bp3-cardheadermobile .bp3-buttonaboutme {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 416px;
+  top                 : 395px;
   height              : 46px;
   width               : 173px;
   position            : absolute;
