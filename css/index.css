@@ -1561,12 +1561,12 @@ div {
 .bp1-desktop .bp1-sectionskillsabout .bp1-skill1 .bp1-rectangle {
   background-color    : rgba(255,255,255,0.0);
   top                 : 123px;
-  height              : 46px;
-  width               : 133px;
+  height              : 35px;
+  width               : 145px;
   position            : absolute;
   margin              : 0;
   left                : 42px;
-  border-radius       : 7px;
+  border-radius       : 3px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -6869,11 +6869,11 @@ div {
 .bp2-index .bp2-sectionskillsabout .bp2-skill1 .bp2-rectangle {
   background-color    : rgba(255,255,255,0.0);
   top                 : 103px;
-  height              : 40px;
-  width               : 100px;
+  height              : 30px;
+  width               : 120px;
   position            : absolute;
   margin              : 0;
-  left                : 31px;
+  left                : 21px;
   border-radius       : 7px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
