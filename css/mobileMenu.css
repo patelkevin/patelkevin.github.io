@@ -11,7 +11,7 @@
   margin              : 0px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color    : rgba(0, 0, 0, 0.8);
+  background-color    : rgba(0, 0, 0, 0.9);
 }
 a {
   text-decoration     : none;
@@ -569,12 +569,12 @@ div {
 }
 .mobilemenu .stackedgroup2 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 90px;
+  top                 : 120px;
   height              : 324px;
   width               : 120px;
   position            : fixed;
   margin              : 0;
-  left                : 40px;
+  left                : 140px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -595,7 +595,7 @@ div {
   font-style          : normal;
   font-size           : 24.0px;
   color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
+  text-align          : center;
   line-height         : 29.0px;
 }
 .mobilemenu .stackedgroup2 .contact {
@@ -614,7 +614,7 @@ div {
   font-style          : normal;
   font-size           : 24.0px;
   color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
+  text-align          : center;
   line-height         : 29.0px;
 }
 .mobilemenu .stackedgroup2 .aboutme {
@@ -633,7 +633,7 @@ div {
   font-style          : normal;
   font-size           : 24.0px;
   color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
+  text-align          : center;
   line-height         : 29.0px;
 }
 .mobilemenu .stackedgroup2 .work {
@@ -652,7 +652,7 @@ div {
   font-style          : normal;
   font-size           : 24.0px;
   color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
+  text-align          : center;
   line-height         : 29.0px;
 }
 .mobilemenu .stackedgroup2 .resume {
@@ -671,7 +671,7 @@ div {
   font-style          : normal;
   font-size           : 24.0px;
   color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
+  text-align          : center;
   line-height         : 29.0px;
 }
 .mobilemenu .stackedgroup2 .linkedin {
@@ -690,7 +690,7 @@ div {
   font-style          : normal;
   font-size           : 24.0px;
   color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
+  text-align          : center;
   line-height         : 29.0px;
 }
 .mobilemenu .menux {
