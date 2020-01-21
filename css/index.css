@@ -3209,7 +3209,7 @@ div {
   width               : 45px;
   position            : absolute;
   margin              : 0;
-  left                : 200px;
+  left                : 300px;
   -ms-transform       : rotate(-35deg); /* IE 9 */
   -webkit-transform   : rotate(-35deg); /* Chrome, Safari, Opera */
   transform           : rotate(-35deg);
@@ -3373,15 +3373,15 @@ div {
 }
 .bp3-mobile .bp3-cardheadermobile .bp3-illustration {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 392px;
+  top                 : 375px;
   height              : 203px;
   width               : 128px;
   position            : absolute;
   margin              : 0;
-  left                : 308px;
-  -ms-transform       : rotate(24deg); /* IE 9 */
-  -webkit-transform   : rotate(24deg); /* Chrome, Safari, Opera */
-  transform           : rotate(24deg);
+  left                : 30px;
+  -ms-transform       : rotate(160deg); /* IE 9 */
+  -webkit-transform   : rotate(160deg); /* Chrome, Safari, Opera */
+  transform           : rotate(160deg);
 }
 .bp3-mobile .bp3-cardheadermobile .bp3-illustration1 {
   background-color    : rgba(255,255,255,0.0);
