@@ -2625,6 +2625,7 @@ div {
   margin              : 0;
   left                : 511px;
   overflow            : hidden;
+  border-radius       : 8px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -3495,6 +3496,7 @@ div {
   color               : rgba(0, 0, 0, 1.0);
   text-align          : left;
   line-height         : 27.0px;
+  border-radius       : 8px;
 }
 .bp3-mobile .bp3-cardheadermobile .bp3-kevinpateluiux {
   background-color    : rgba(255,255,255,0.0);
@@ -7826,6 +7828,7 @@ div {
   margin              : 0;
   left                : 344px;
   overflow            : hidden;
+  border-radius       : 8px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
